@@ -5,6 +5,8 @@ Here are the links mentioned in the JavaScript Course:
 A.I. tool for searching for code: https://chat.openai.com/chat
 
 ### Lesson 13
+Amazon final project: https://amazonsite2.netlify.app/
+
 Starting code for the Amazon project: https://github.com/alawantech/javascript-amazon-project
 
 Git installation instructions: https://git-scm.com/downloads
